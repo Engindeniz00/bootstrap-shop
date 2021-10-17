@@ -120,6 +120,17 @@
       <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/laravel/framework" />
       <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/laravel/serializable-closure" />
       <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/react/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/barryvdh/laravel-ide-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/barryvdh/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/seld/jsonlint" />
+      <excludeFolder url="file://$MODULE_DIR$/boostrap-shop/vendor/seld/phar-utils" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

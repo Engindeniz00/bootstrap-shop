@@ -114,6 +114,17 @@
       <path value="$PROJECT_DIR$/boostrap-shop/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/boostrap-shop/vendor/laravel/serializable-closure" />
       <path value="$PROJECT_DIR$/boostrap-shop/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/boostrap-shop/vendor/seld/phar-utils" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3">
